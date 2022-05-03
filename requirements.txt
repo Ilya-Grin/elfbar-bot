@@ -1,0 +1,4 @@
+pymongo
+pymongo[srv]
+aiohttp[speedups]
+aiogram
